@@ -1,0 +1,85 @@
+Thread Title: [ROM][device] Komodo OS [version][Android 10 - mm/dd/yyyy]
+
+[img="main banner"] link [/img] 
+
+[SIZE="5"][b][color=#1a73e8]PixelExperience for DeviceName [codename][/color][/b][/SIZE]
+
+[CENTER]
+/**
+ * Disclaimer 
+ * We're not responsible for bricked devices, dead SD cards, thermonuclear war, 
+ * or you getting fired because the alarm app failed. Please do some research 
+ * if you have any concerns about features included in this ROM
+ * before flashing it! YOU are choosing to make these modifications, and if
+ * you blame me in any way for what happens to your device, I will laugh at you.
+ * BOOM! goes the dynamite
+ */
+[/CENTER]
+
+[IMAGE=INTRO] [/IMAGE]
+[SIZE="5"][CENTER] Lorem Ipsum Dolor Sit Amet [/CENTER][/SIZE]
+
+[SIZE="5"][b][color=]What's working?[/color][/b][/SIZE]
+[SIZE="4"]
+Wifi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FMRadio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound / vibration[/SIZE]
+
+[SIZE="4"]
+Features:
+ #StatusBar
+- Network Traffic
+- Custom Carrier Label
+- DT2S
+- Battery Bar
+- Custom StatusBar Logo
+- Switch 4G Icon
+- Volte Icon
+- Custom Clock Settings
+
+#Theming
+- G-Visual Mod (Pill Gesture, Statusbar Height, UI Radius)
+
+#Quick Settings
+- QS Header Images
+- Brightness Slider on Bottom
+- QS Animation Style
+- QS Layout
+- QS Blur Alpha
+
+#Button
+- Volume Rocker Control
+#Gesture
+- Swipe threefinger to SS
+#Navigation Bar
+- Invert Layout
+#Lockscreen
+- DT2P 
+
+#Notification
+- Ambient Light
+- Battery Full Notification
+- HeadsUp Control
+
+#Animation
+- System Animation
+#Battery
+- Dumb Charging
+
+#Miscellaneous
+- Signature Spoofing
+- Screenshot sound Control
+- Keyboar Cursor Control
+- Gaming Mode
+[/SIZE]
