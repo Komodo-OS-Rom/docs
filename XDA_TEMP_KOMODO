@@ -14,10 +14,11 @@ Thread Title: [ROM][device] Komodo OS [version][Android 10 - mm/dd/yyyy]
  * you blame me in any way for what happens to your device, I will laugh at you.
  * BOOM! goes the dynamite
  */
-[/CODE]
+[/CODE][/CENTER]
 
-[img]https://i.imgur.com/zC3AEUE.png[/img][/CENTER]
-[SIZE="5"][CENTER] "Lorem Ipsum Dolor Sit Amet" [/CENTER][/SIZE]
+[CENTER][img]https://i.imgur.com/zC3AEUE.png[/img][/CENTER]
+[SIZE="5"][CENTER] "Komodo OS is a pure AOSP rom with a minimal touch of customization 
+and stability in it with a view to achieving daily usage stability" [/CENTER][/SIZE]
 
 [CENTER][SIZE="5"][b][color=#03AC53]What's working?[/color][/b][/SIZE][/CENTER]
 [SIZE="4"]
@@ -31,13 +32,12 @@ Camcorder
 Bluetooth
 FMRadio
 Fingerprint reader
-Face unlock
 NFC
 Lights
-Sound / vibration[/SIZE]
+Sound / vibration[/SIZE][/CENTER]
 
 [CENTER][img]https://i.imgur.com/w2lDJjO.png[/img][/CENTER]
-[SIZE="4"]
+[SIZE="4"][CENTER]
  #StatusBar
 - Network Traffic
 - Custom Carrier Label
@@ -49,7 +49,7 @@ Sound / vibration[/SIZE]
 - Custom Clock Settings
 
 #Theming
-- G-Visual Mod (Pill Gesture, Statusbar Height, UI Radius)
+- G-Visual Mod (Pill Gesture, Statusbar Height, UI Radius) BETA
 
 #Quick Settings
 - QS Header Images
@@ -65,7 +65,7 @@ Sound / vibration[/SIZE]
 #Navigation Bar
 - Invert Layout
 #Lockscreen
-- DT2P 
+- DT2S 
 
 #Notification
 - Ambient Light
@@ -85,25 +85,27 @@ Sound / vibration[/SIZE]
 [/SIZE]
 
 [CENTER][img]https://i.imgur.com/aV8vTGD.png[/img]
-[SIZE="5"]Kry9toN
-Alandz
-Harun
-Najahi
-Trisf
-Gerald
-Aryanata[/SIZE]
+[SIZE="5"]
+[URL="t.me/Kry9toN"]@Kry9toN[/URL]
+[URL="t.me/alanndz"]Alandz[/URL]
+[URL="t.me/aarunalr"]@goodmeow[/URL]
+[URL="t.me/najahiii"]Najahi[/URL]
+[URL="t.me/trisf"]@Trisf[/URL]
+[URL="t.me/Gnonymous7"]@Gnonymous7[/URL]
+[URL="t.me/aryanata_andi"]Aryanata[/URL]
+[/SIZE][/CENTER]
 
-[img]https://i.imgur.com/7lqeuiu.png[/img]
+[CENTER][img]https://i.imgur.com/7lqeuiu.png[/img]
 [URL="https://sourceforge.net/projects/komodos-rom/files/"][SIZE="5"][color=#03AC53]Downloads[/color][/SIZE][/URL]
 [CODE]
 Flashing steps:
 1. Backup everything
-2. 5 Wipe
+2. Wipe dalvik, cache,& data.
 3. Flash rom and gapps
 4. Reboot
-[/CODE]
+[/CODE][/CENTER]
 
-[img]https://i.imgur.com/y5kQkpl.png[/img]
+[CENTER][img]https://i.imgur.com/y5kQkpl.png[/img]
 [SIZE="5"][URL="http://https://komodo-os.my.id/"]Website[/URL]
 [URL="http://https://t.me/KomodOSGroup"]Support Group[/URL]
 [URL="http://https://t.me/KomodOSRom"]Channel[/URL]
